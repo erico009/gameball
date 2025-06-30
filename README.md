@@ -2,6 +2,7 @@
 ![28AA07EF-C69F-4516-BC5A-CE71703BDD2E](https://github.com/user-attachments/assets/e670d900-998b-4d72-ad4c-23169abe6367)
 ## Design choice
 
+## Technical Stuff
 
 ### Split implementation 
 
