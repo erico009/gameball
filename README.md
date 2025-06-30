@@ -1,6 +1,6 @@
 Pi Pico split keyboard with encoder, trackball and joystick.
 
-# H1Split implementation 
+# Split implementation 
 
 "config.h"
     
