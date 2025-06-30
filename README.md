@@ -38,7 +38,7 @@ Used for regular scrolling so that the mouse functionallity can be used one hand
 
 ## Technical Stuff
 
-Maybe helpful.
+Maybe helpful. RP2040 specific.
 
 ### Split implementation 
 
