@@ -2,6 +2,36 @@
 ![28AA07EF-C69F-4516-BC5A-CE71703BDD2E](https://github.com/user-attachments/assets/e670d900-998b-4d72-ad4c-23169abe6367)
 ## Design choice
 
+### Keycaps(and key spacing)
+
+The keycaps are KLP Lame saddle, however what might not be obvious from the image is that the vertical width of the keycaps are 85%, with reduced spacing between the switching to match. This reduces the travel between switches(small hands). Columnar stagger would be more ergonomic reducing the movement of wrists when trying to hit pinky keys for touch typers, however the goal of the keyboard was to be able to use it for traditional WASD gaming as well as with the joystick.
+
+### Trackball
+
+Its a trackball. The mouse sensor is located to the right of the ball. There is a -20 degree tilt set in the firmware allowing a more natural movement of the thumb. 
+
+### Joystick
+
+A Nintendo switch style joystick was used to reduce the profile while maintaining the traditional movement of a joystick, unlike a psp1000 sliding joystick. There is a -20 degree tilt here as well to allow for more natural movement of the thumb.
+
+### Encoder
+
+It spins
+
+## Keymap (so far)
+
+### Combos
+
+Combos are used to implement the mouse keys, left click is "j" and "k", right click is "k" and "l", middle mouse button is "j" and "l"
+
+### Joystick
+
+Using the F13(permantly temporary) key bound to key 7-4 on the left side of the keyboard the joystick can cycle through WASD, arrow keys, and controller output.
+
+### Encoder
+
+Used for regular scrolling so that the mouse functionallity can be used one handed, without using a function key to enable scrolling on the trackball.
+
 ## Technical Stuff
 
 ### Split implementation 
