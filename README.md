@@ -20,7 +20,7 @@ I can hardly reach past the thumb key on the right side(small hands). If needed 
 
 ### Encoder
 
-It spins
+It doesn't spin... yet.
 
 ## Keymap (so far)
 
