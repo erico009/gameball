@@ -16,7 +16,7 @@ A Nintendo switch style joystick was used to reduce the profile while maintainin
 
 ### No thumb cluster????
 
-I can hardly reach past the thumb key on the right side(small hands). If needed the joystick can be rebound to as a thumb cluster.
+I can hardly reach past the thumb key on the right side(small hands). If needed the joystick can be rebound as a thumb cluster.
 
 ### Encoder
 
