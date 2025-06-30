@@ -34,7 +34,7 @@ Used for regular scrolling so that the mouse functionallity can be used one hand
 
 ## Technical Stuff
 
-Maybe helpful for complete beginners.
+Maybe helpful.
 
 ### Split implementation 
 
