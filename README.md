@@ -34,7 +34,7 @@ Using the F13(permantly temporary) key bound to key 7-4 on the left side of the 
 
 ### Encoder
 
-Used for regular scrolling so that the mouse functionallity can be used one handed, without using a function key to enable scrolling on the trackball.
+Used for regular scrolling so that the mouse functionallity can be used one handed (without using a function key to enable scrolling on the trackball).
 
 ## Technical Stuff
 
