@@ -1,6 +1,6 @@
 Pi Pico split keyboard with encoder, trackball and joystick.
 
-# Split implementation 
+### Split implementation 
 
 "config.h"
     
@@ -15,7 +15,7 @@ Pi Pico split keyboard with encoder, trackball and joystick.
     SERIAL_DRIVER = vendor
     SPLIT_KEYBOARD = yes
     
-Mouse implementation
+### Mouse implementation
 "rules.mk"
 
     SERIAL_DRIVER = vendor
