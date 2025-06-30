@@ -1,3 +1,5 @@
+Pi Pico split keyboard with encoder, trackball and joystick.
+
 Split implementation "config.h"
     
     #define SPLIT_HAND_PIN GP28
