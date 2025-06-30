@@ -5,9 +5,9 @@ Microcontroller: Pi Pico and pins used
 Joystick: Aliexpress TMR Nintendo switch style joystick
 
 <picture>
-<img src="https://github.com/user-attachments/assets/09c3ba0c-979f-4511-b104-186558ca0a61" width="300">![image](https://github.com/user-attachments/assets/21432264-9f7e-4bb0-bdf3-19e591b9317b)
-
+<img src="https://github.com/user-attachments/assets/09c3ba0c-979f-4511-b104-186558ca0a61" width="300">
 </picture>
+![image](https://github.com/user-attachments/assets/21432264-9f7e-4bb0-bdf3-19e591b9317b)
 
 
 
