@@ -38,7 +38,7 @@ Used for regular scrolling so that the mouse functionallity can be used one hand
 
 ### Layout
 
-Slightly modified QWERTY. ESC key moved to traditional "Caps Lock" placement, ENTER moved up 1 space to make room for ' key, [ - = ] keys moved to tallest keys on either side.
+Slightly modified QWERTY. ESC key moved to traditional "Caps Lock" placement, ENTER moved up 1 space to make room for ' key, [ - = ] keys moved to tallest switches on either side.
 
 ## Technical Stuff
 
