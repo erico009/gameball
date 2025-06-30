@@ -5,6 +5,11 @@ Split implementation "config.h"
     #define SERIAL_USART_FULL_DUPLEX
     #define SERIAL_USART_TX_PIN GP0
     #define SERIAL_USART_RX_PIN GP1
+
+"rules.mk"
+
+    SERIAL_DRIVER = vendor
+    SPLIT_KEYBOARD = yes
     
 Mouse implementation
 "rules.mk"
