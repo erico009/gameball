@@ -4,7 +4,7 @@
 
 ### Keycaps(and key spacing)
 
-The keycaps are KLP Lame saddle, except vertically challanged vertical width of the keycaps are 85% of the original, with reduced spacing between the switches to match. This reduces the travel between switches(small hands). Columnar stagger would be more ergonomic reducing the movement of wrists when trying to hit pinky keys for touch typers, however the goal of the keyboard was to be able to use it for traditional WASD gaming as well as with the joystick. Depending on how aggresive the stagger it can range from WASD gaming being unplayable to mildly annoying. Also why there are no key wells.
+The keycaps are KLP Lame saddle, except vertically challenged. Vertical width of the keycaps are 85% of the original, with reduced spacing between the switches to match. This reduces the travel between switches(small hands). Columnar stagger would be more ergonomic reducing the movement of wrists when trying to hit pinky keys for touch typers, however the goal of the keyboard was to be able to use it for traditional WASD gaming as well as with the joystick. Depending on how aggresive the stagger it can range from WASD gaming being unplayable to mildly annoying. Also why there are no key wells.
 
 ### Trackball
 
