@@ -43,6 +43,16 @@ For split (first enable all split requirements) "config.h"
 
 "POINTING_DEVICE_LEFT" if mouse sensor is on left
 
+Encoder implementation (no encoder on left), resolution depends on encoder
+"config.h"
+
+    #define ENCODER_A_PINS { }
+    #define ENCODER_B_PINS { }
+    #define ENCODER_RESOLUTIONS { }
+    #define ENCODER_A_PINS_RIGHT { GP14 }
+    #define ENCODER_B_PINS_RIGHT { GP15 }
+    #define ENCODER_RESOLUTIONS_RIGHT { 2 }
+
 For a split keyboard the matrix will have double the columns. The first half will account for one side of the split keyboard. For this keyboard with mirrored wiring, row number counts from max to lowest for each column of the other half. Example below shows first row of each half(numbers in []).
                 
     {"matrix": [0, 0], "x": 0, "y": 0.375},
