@@ -22,7 +22,7 @@ It spins
 
 ### Combos
 
-Combos are used to implement the mouse keys, left click is "j" and "k", right click is "k" and "l", middle mouse button is "j" and "l"
+Combos are used to implement the mouse keys, left click is "j" and "k", right click is "k" and "l", middle mouse button is "j" and "l".
 
 ### Joystick
 
