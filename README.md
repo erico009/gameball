@@ -26,7 +26,7 @@ For split (first enable all split requirements) "config.h"
     #define SPLIT_POINTING_ENABLE
     #define POINTING_DEVICE_RIGHT
     #define SPLIT_HAND_PIN GP28
-handedness pin should be pulled to v
+handedness pin should be pulled to 3v3 and GND respectively(refer to docs)
     
 Pi Pico pins
 <picture>
