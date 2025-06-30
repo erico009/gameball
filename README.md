@@ -1,9 +1,9 @@
 Mouse implementation requirements:
 Serial enabled
 in "rules.mk"
-SERIAL_DRIVER = vendor
-POINTING_DEVICE_ENABLE = yes
-POINTING_DEVICE_DRIVER = pmw3389
+    SERIAL_DRIVER = vendor
+    POINTING_DEVICE_ENABLE = yes
+    POINTING_DEVICE_DRIVER = pmw3389
 
 Pi Pico pins
 <picture>
