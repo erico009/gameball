@@ -14,6 +14,10 @@ Its a trackball. The mouse sensor is located to the right of the ball. There is 
 
 A Nintendo switch style joystick was used to reduce the profile while maintaining the traditional movement of a joystick, unlike a psp1000 sliding joystick. There is a -20 degree tilt here as well to allow for more natural movement of the thumb. A TMR joystick used to prevent stick drift in the future. This particular joystick has very light springs so its easier to move without sliding the keyboard around.
 
+### No thumb cluster????
+
+I can hardly reach past the thumb key on the right side(small hands). If needed the joystick can be rebound to as a thumb cluster.
+
 ### Encoder
 
 It spins
