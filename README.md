@@ -1,4 +1,4 @@
-Microcontroller board: Pi Pico
+Microcontroller: Pi Pico and pins used
 <picture>
 ![image](https://github.com/user-attachments/assets/d5c09dd5-5870-49c5-af64-c63cd70dd36a)
 </picture>
