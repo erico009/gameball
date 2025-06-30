@@ -43,17 +43,11 @@ For split (first enable all split requirements) "config.h"
 
 "POINTING_DEVICE_LEFT" if mouse sensor is on left
 
-Encoder implementation (no encoder on left), resolution depends on encoder
-"config.h"
+Encoder implementation refer to QMK docs
 
-    #define ENCODER_A_PINS { }
-    #define ENCODER_B_PINS { }
-    #define ENCODER_RESOLUTIONS { }
-    #define ENCODER_A_PINS_RIGHT { GP14 }
-    #define ENCODER_B_PINS_RIGHT { GP15 }
-    #define ENCODER_RESOLUTIONS_RIGHT { 2 }
+Joystick implementation refer to QMK docs. Note ADC signal only reports on master(?) In this keyboard the ADC signal is sent through USB 4.0 CC and SBU pins so that each side can use the signal from the joystick when acting as master. In theory if only the left side for example is ever master the same USB 4.0 CC and SBU pins can be used to have 1 joystick on each side of the split without custom transport code.
 
-For a split keyboard the matrix will have double the columns. The first half will account for one side of the split keyboard. For this keyboard with mirrored wiring, row number counts from max to lowest for each column of the other half. Example below shows first row of each half(numbers in []).
+For a split keyboard the matrix will have double the columns. The first half will account for one side of the split keyboard. For this keyboard with mirrored wiring, row number counts from in reverse for each column of the other half. Example below shows first row of each half(numbers in square brackets).
                 
     {"matrix": [0, 0], "x": 0, "y": 0.375},
     {"matrix": [0, 1], "x": 1, "y": 0.375},
