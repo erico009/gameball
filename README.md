@@ -8,7 +8,7 @@ The keycaps are KLP Lame saddle, however what might not be obvious from the imag
 
 ### Trackball
 
-Its a trackball. The mouse sensor is located to the right of the ball. There is a -20 degree tilt set in the firmware allowing a more natural movement of the thumb. 
+Its a trackball. The mouse sensor is located to the right of the ball. There is a -20 degree tilt set in the firmware allowing a more natural movement of the thumb. The actual ball is a baoding ball, about the cheapest thing I could find. Extremely rough tracking and has a bell inside the jingles everytime the mouse is used, replacing with POM balls. Ball size is 1.5 inches, because it was the biggest one that wouldn't get in the way.
 
 ### Joystick
 
