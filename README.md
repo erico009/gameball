@@ -12,6 +12,21 @@ Mouse implementation
     #include_next <mcuconf.h>
     #undef RP_SPI_USE_SPI0
     #define RP_SPI_USE_SPI0 TRUE
+
+"config.h"
+
+    #define SPI_DRIVER SPID0
+    #define SPI_SCK_PIN GP2
+    #define SPI_MOSI_PIN GP3
+    #define SPI_MISO_PIN GP4
+    #define PMW33XX_CS_PIN GP5
+
+For split (first enable all split requirements) "config.h"
+    
+    #define SPLIT_POINTING_ENABLE
+    #define POINTING_DEVICE_RIGHT
+    #define SPLIT_HAND_PIN GP28
+handedness pin should be pulled to v
     
 Pi Pico pins
 <picture>
