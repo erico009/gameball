@@ -43,23 +43,23 @@ For split (first enable all split requirements) "config.h"
 
 "POINTING_DEVICE_LEFT" if mouse sensor is on left
 
-For a split keyboard the matrix will have double the columns. The first half will account for one side of the split keyboard. For this keyboard with mirrored wiring, row number counts from max to lowest for each column of the other half.
+For a split keyboard the matrix will have double the columns. The first half will account for one side of the split keyboard. For this keyboard with mirrored wiring, row number counts from max to lowest for each column of the other half. Example below shows first row of each half.
                 
-                {"matrix": [0, 0], "x": 0, "y": 0.375},
-                {"matrix": [0, 1], "x": 1, "y": 0.375},
-                {"matrix": [0, 2], "x": 2, "y": 0.125},
-                {"matrix": [0, 3], "x": 3, "y": 0},
-                {"matrix": [0, 4], "x": 4, "y": 0.125},
-                {"matrix": [0, 5], "x": 5, "y": 0.25},
-                {"matrix": [0, 6], "x": 6, "y": 0.75},
+    {"matrix": [0, 0], "x": 0, "y": 0.375},
+    {"matrix": [0, 1], "x": 1, "y": 0.375},
+    {"matrix": [0, 2], "x": 2, "y": 0.125},
+    {"matrix": [0, 3], "x": 3, "y": 0},
+    {"matrix": [0, 4], "x": 4, "y": 0.125},
+    {"matrix": [0, 5], "x": 5, "y": 0.25},
+    {"matrix": [0, 6], "x": 6, "y": 0.75},
 
-                {"matrix": [5, 6], "x": 11.5, "y": 0.75},
-                {"matrix": [5, 5], "x": 12.5, "y": 0.25},
-                {"matrix": [5, 4], "x": 13.5, "y": 0.125},
-                {"matrix": [5, 3], "x": 14.5, "y": 0},
-                {"matrix": [5, 2], "x": 15.5, "y": 0.125},
-                {"matrix": [5, 1], "x": 16.5, "y": 0.375},
-                {"matrix": [5, 0], "x": 17.5, "y": 0.375},
+    {"matrix": [5, 6], "x": 11.5, "y": 0.75},
+    {"matrix": [5, 5], "x": 12.5, "y": 0.25},
+    {"matrix": [5, 4], "x": 13.5, "y": 0.125},
+    {"matrix": [5, 3], "x": 14.5, "y": 0},
+    {"matrix": [5, 2], "x": 15.5, "y": 0.125},
+    {"matrix": [5, 1], "x": 16.5, "y": 0.375},
+    {"matrix": [5, 0], "x": 17.5, "y": 0.375},
 
 Pi Pico pins
 <picture>
