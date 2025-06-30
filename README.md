@@ -1,4 +1,4 @@
-Pi Pico split keyboard with encoder, trackball and joystick.
+# Pi Pico split keyboard with encoder, trackball and joystick.
 
 ### Split implementation 
 
@@ -51,7 +51,7 @@ For split (first enable all split requirements) "config.h"
 
 Note ADC signal only reports on master(?) In this keyboard the ADC signal is sent through USB 4.0 CC and SBU pins so that each side can use the signal from the joystick when acting as master. In theory if only the left side is ever connected the same USB 4.0 CC and SBU pins can be used to have 1 joystick on each side of the split without custom transport code.
 
-###Split Matrix
+### Split Matrix
 
 For a split keyboard the matrix will have double the columns. The first half will account for one side of the split keyboard. For this keyboard with mirrored wiring, row number counts from in reverse for each column of the other half. Example below shows first row of each half(numbers in square brackets).
                 
