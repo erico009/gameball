@@ -1,3 +1,10 @@
+Mouse implementation requirements:
+Serial enabled
+in "rules.mk"
+SERIAL_DRIVER = vendor
+POINTING_DEVICE_ENABLE = yes
+POINTING_DEVICE_DRIVER = pmw3389
+
 Pi Pico pins
 <picture>
 ![image](https://github.com/user-attachments/assets/d5c09dd5-5870-49c5-af64-c63cd70dd36a)
