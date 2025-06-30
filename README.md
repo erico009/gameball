@@ -1,8 +1,12 @@
-Joystick:
+Microcontroller board: Pi Pico
+<picture>
+![image](https://github.com/user-attachments/assets/d5c09dd5-5870-49c5-af64-c63cd70dd36a)
+</picture>
+Joystick: Aliexpress TMR Nintendo switch style joystick
 
 <picture>
 <img src="https://github.com/user-attachments/assets/09c3ba0c-979f-4511-b104-186558ca0a61" width="300">
 </picture>
 
-TMR joystick in nintendo switch style.
+
 
