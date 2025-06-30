@@ -43,7 +43,7 @@ For split (first enable all split requirements) "config.h"
 
 "POINTING_DEVICE_LEFT" if mouse sensor is on left
 
-For a split keyboard the matrix will have double the columns. The first half will account for one side of the split keyboard. For this keyboard with mirrored wiring, row number counts from max to lowest for each column of the other half. Example below shows first row of each half.
+For a split keyboard the matrix will have double the columns. The first half will account for one side of the split keyboard. For this keyboard with mirrored wiring, row number counts from max to lowest for each column of the other half. Example below shows first row of each half(numbers in []).
                 
     {"matrix": [0, 0], "x": 0, "y": 0.375},
     {"matrix": [0, 1], "x": 1, "y": 0.375},
