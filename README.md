@@ -30,7 +30,7 @@ Combos are used to implement the mouse keys, left click is "j" and "k", right cl
 
 ### Joystick
 
-Using the F13(permantly temporary) key bound to key 7-4 on the left side of the keyboard the joystick can cycle through WASD, arrow keys, and controller output.
+Using the F13(permantly temporary) key bound to the key 7 to the right and 4 down on the left side of the keyboard. The joystick can cycle through WASD, arrow keys, and controller output.
 
 ### Encoder
 
