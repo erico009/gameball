@@ -26,7 +26,8 @@ For split (first enable all split requirements) "config.h"
     #define SPLIT_POINTING_ENABLE
     #define POINTING_DEVICE_RIGHT
     #define SPLIT_HAND_PIN GP28
-handedness pin should be connected to 3v3(left) and GND(right) with a resistor(?) 
+
+"POINTING_DEVICE_LEFT" if mouse sensor is on left
     
 Pi Pico pins
 <picture>
