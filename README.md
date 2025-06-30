@@ -1,5 +1,5 @@
 # Pi Pico split keyboard with encoder, trackball and joystick.
-https://cdn.discordapp.com/attachments/587004793004884086/1387820785821028484/28AA07EF-C69F-4516-BC5A-CE71703BDD2E.jpg?ex=6862b0d3&is=68615f53&hm=dd825ef58bef838bdf9a4e268a01d06aa7a18aac8cb021b1362bf01fb157bd07&
+![28AA07EF-C69F-4516-BC5A-CE71703BDD2E](https://github.com/user-attachments/assets/e670d900-998b-4d72-ad4c-23169abe6367)
 ### Split implementation 
 
 "config.h"
