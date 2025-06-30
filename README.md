@@ -1,6 +1,5 @@
-Mouse implementation requirements:
-Serial enabled
-in "rules.mk"
+Mouse implementation
+"rules.mk"
 
     SERIAL_DRIVER = vendor
     POINTING_DEVICE_ENABLE = yes
