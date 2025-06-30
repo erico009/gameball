@@ -46,9 +46,11 @@ For split (first enable all split requirements) "config.h"
 "POINTING_DEVICE_LEFT" if mouse sensor is on left
 
 ### Encoder implementation 
+
 refer to QMK docs
 
 ### Joystick implementation 
+
 refer to QMK docs. 
 
 Note ADC signal only reports on master(?) In this keyboard the ADC signal is sent through USB 4.0 CC and SBU pins so that each side can use the signal from the joystick when acting as master. In theory if only the left side is ever connected the same USB 4.0 CC and SBU pins can be used to have 1 joystick on each side of the split without custom transport code.
