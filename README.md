@@ -110,6 +110,8 @@ For a split keyboard the matrix will have double the columns. The first half wil
     {"matrix": [5, 2], "x": 15.5, "y": 0.125},
     {"matrix": [5, 1], "x": 16.5, "y": 0.375},
     {"matrix": [5, 0], "x": 17.5, "y": 0.375},
+    
+## Hardware Stuff
 
 Pi Pico pins
 <picture>
