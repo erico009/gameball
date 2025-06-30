@@ -1,3 +1,11 @@
+Split implementation "config.h"
+    
+    #define SPLIT_HAND_PIN GP28
+
+    #define SERIAL_USART_FULL_DUPLEX
+    #define SERIAL_USART_TX_PIN GP0
+    #define SERIAL_USART_RX_PIN GP1
+    
 Mouse implementation
 "rules.mk"
 
@@ -25,7 +33,6 @@ For split (first enable all split requirements) "config.h"
     
     #define SPLIT_POINTING_ENABLE
     #define POINTING_DEVICE_RIGHT
-    #define SPLIT_HAND_PIN GP28
 
 "POINTING_DEVICE_LEFT" if mouse sensor is on left
     
