@@ -42,7 +42,7 @@ For split (first enable all split requirements) "config.h"
     #define POINTING_DEVICE_RIGHT
 
 "POINTING_DEVICE_LEFT" if mouse sensor is on left
-    
+
 Pi Pico pins
 <picture>
 ![image](https://github.com/user-attachments/assets/d5c09dd5-5870-49c5-af64-c63cd70dd36a)
