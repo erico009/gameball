@@ -7,7 +7,8 @@ Joystick: Aliexpress TMR Nintendo switch style joystick
 <picture>
 <img src="https://github.com/user-attachments/assets/09c3ba0c-979f-4511-b104-186558ca0a61" width="300">
 </picture>
-![image](https://github.com/user-attachments/assets/8b8fa97f-b807-4be5-a81b-167bc7027bdd)
+
+![Screenshot 2025-06-30 010211](https://github.com/user-attachments/assets/bf986348-5158-445f-acca-0cc41602a425)
 
 
 
