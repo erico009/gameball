@@ -43,7 +43,7 @@ For split (first enable all split requirements) "config.h"
 
 "POINTING_DEVICE_LEFT" if mouse sensor is on left
 
-Matrix should have double columns. The first half will account for one side of the split keyboard. For this keyboard with mirrored wiring, row number counts from max to lowest for each column of the other half.
+For a split keyboard the matrix will have double the columns. The first half will account for one side of the split keyboard. For this keyboard with mirrored wiring, row number counts from max to lowest for each column of the other half.
 
 Pi Pico pins
 <picture>
