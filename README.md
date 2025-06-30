@@ -36,6 +36,10 @@ Using the F13(permantly temporary) key bound to the key 7 to the right and 4 dow
 
 Used for regular scrolling so that the mouse functionallity can be used one handed (without using a function key to enable scrolling on the trackball).
 
+### Layout
+
+Slightly modified QWERTY. ESC key moved to traditional "Caps Lock" placement, ENTER moved up 1 space to make room for ' key, [ - = ] keys moved to tallest keys on either side.
+
 ## Technical Stuff
 
 Maybe helpful. RP2040 specific.
